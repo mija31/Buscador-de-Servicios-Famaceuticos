@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RutasCbba</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="ruta_ida">Ruta Ida</string>
+    <string name="ruta_vuelta">Ruta Vuelta</string>
+    <string name="descripcion">Descripción Linea</string>
+</resources>

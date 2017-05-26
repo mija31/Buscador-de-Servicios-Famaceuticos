@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout   xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:paddingRight="@dimen/fab_margin"
+    android:paddingLeft="@dimen/fab_margin"
+    android:paddingTop="@dimen/dimen_seis"
+    android:paddingBottom="@dimen/dimen_seis"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:text="SINDICATO: COCHABAMBA"
+        android:id="@+id/textView_item_des"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+

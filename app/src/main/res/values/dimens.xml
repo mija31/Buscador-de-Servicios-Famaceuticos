@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dimen_doce">12dp</dimen>
+    <dimen name="dimen_seis">6dp</dimen>
+    <dimen name="text_size">18dp</dimen>
+    <dimen name="tabsHeight">48dp</dimen>
+    <dimen name="fab_margin_two">88dp</dimen>
+</resources>
